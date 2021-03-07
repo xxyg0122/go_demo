@@ -1,0 +1,22 @@
+mysql:
+  readDB:
+    drivername: "mysql"
+    notes: "readDB"
+    host: "127.0.0.1"
+    port: "3307"
+    dbname: "test_db"
+    user: "root"
+    password: "123456"
+  writeDB:
+    drivername: "mysql"
+    notes: "writeDB"
+    host: "127.0.0.1"
+    port: "3307"
+    dbname: "test_db"
+    user: "root"
+    password: "123456"
+redis:
+  host: "127.0.0.1"
+  port: "3307"
+  password: "123456"
+  db: 0
