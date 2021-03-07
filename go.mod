@@ -7,6 +7,7 @@ require (
 	github.com/go-redis/redis v6.15.9+incompatible // indirect
 	github.com/go-redis/redis/v8 v8.4.8 // indirect
 	github.com/go-sql-driver/mysql v1.5.0
+	github.com/sirupsen/logrus v1.8.0
 	github.com/spf13/viper v1.7.1
 	go.opentelemetry.io/otel v0.16.0 // indirect
 )
